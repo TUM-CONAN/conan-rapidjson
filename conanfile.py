@@ -8,7 +8,7 @@ required_conan_version = ">=1.50.0"
 
 class RapidjsonConan(ConanFile):
     name = "rapidjson"
-    version = "1.1.0"
+    version = "cci.20230929"
     description = "A fast JSON parser/generator for C++ with both SAX/DOM style API"
     topics = ("rapidjson", "json", "parser", "generator")
     url = "https://github.com/conan-io/conan-center-index"
